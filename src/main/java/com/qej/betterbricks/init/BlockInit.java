@@ -64,6 +64,12 @@ public class BlockInit
             object -> () -> new BlockItem(object.get(), new Item.Properties().tab(BetterBricks.BETTER_BRICKS_TAB)));
     
     /*
+    public static final RegistryObject<Block> LIGHT_GRAY_BRICKS_ALT = register("light_gray_bricks_alt", 
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(1.0f).sound(SoundType.STONE).requiresCorrectToolForDrops()), 
+            object -> () -> new BlockItem(object.get(), new Item.Properties().tab(BetterBricks.BETTER_BRICKS_TAB)));
+    */
+    
+    /*
      * STANDARD BRICK STAIRS
      */
     

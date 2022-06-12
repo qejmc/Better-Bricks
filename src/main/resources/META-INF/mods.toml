@@ -30,7 +30,7 @@ modId="betterbricks" #mandatory
 # ${file.jarVersion} will substitute the value of the Implementation-Version as read from the mod's JAR file metadata
 # see the associated build.gradle script for how to populate this completely automatically during a build
 
-version="1.18.2-0.2.0" #mandatory
+version="1.19-0.2.0" #mandatory
 
  # A display name for the mod
 
@@ -61,6 +61,6 @@ A mod designed to extent the contemporary builder's palette.
 '''
 
 # This version range declares a minimum of the current minecraft version up to but not including the next major version
-    versionRange="[1.18.2,1.19)"
+    versionRange="[1.19,1.20)"
     ordering="NONE"
     side="BOTH"
